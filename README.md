@@ -16,8 +16,7 @@ El proyecto consta de una aplicacion para llevar el registro de mantenimientos a
 ## URLS
 Los urls funcionales son:
 
-**/nuevo_mecanico/: URL para agregar un nuevo mecánico.  
-**/nuevo_vehiculo/: URL para agregar un nuevo vehículo.  
-**/nuevo_mantenimiento/: URL para agregar un nuevo mantenimiento.  
-**/buscar_mecanico/: URL para buscar un mecánico.  
-**/resultado/: URL para mostrar los resultados de la búsqueda de mecánicos.
+**/AppMantenimiento/nuevo_mecanico/: URL para agregar un nuevo mecánico.  
+**/AppMantenimiento/nuevo_vehiculo/: URL para agregar un nuevo vehículo.  
+**/AppMantenimiento/nuevo_mantenimiento/: URL para agregar un nuevo mantenimiento.  
+**/AppMantenimiento/buscar_mecanico/: URL para buscar un mecánico.  
