@@ -1,0 +1,15 @@
+{% extends 'AppMantenimiento/base.html' %}
+
+{% block title %}Buscar en la base de Datos{% endblock %}
+
+{% block content %}
+    <div class="container mt-4">
+        <form action="/AppMantenimiento/resultado/" method="GET">
+
+            Ingrese el mecanico a buscar: <input type="text" name="mecanico">
+        
+            <input type="submit" value="Buscar">
+
+        </form>
+    </div>
+{% endblock %}
